@@ -13,3 +13,8 @@
 ## Welcome to the Firmware Security testing area
 
 Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emba) and the enterprise Firmware scanning environment [*EMBArk*](https://github.com/e-m-b-a/embark).
+
+## Current news
+
+* [*Don't miss the Black Hat Arsenal demonstration of EMBA*](https://www.blackhat.com/asia-22/arsenal/schedule/index.html#emba-open-source-firmware-security-testing-26210)
+* [*First public release of EMBA - v0.9 - Munich Edt. available*](https://github.com/e-m-b-a/emba/releases/tag/0.9.0-MunichEdt)
