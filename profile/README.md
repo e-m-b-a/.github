@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/e-m-b-a/emba/master/helpers/emba.svg" width="200"/>
 </p>
 <p align="center">
-  <a href="https://github.com/e-m-b-a/emba/blob/master/LICENSE"><img src="https://img.shields.io/github/license/e-m-b-a/emba?label=License"></a>
-  <a href="https://github.com/e-m-b-a/emba/graphs/contributors"><img src="https://img.shields.io/github/contributors/e-m-b-a/emba?color=9ea"></a>
   <a href="https://github.com/e-m-b-a/emba/stargazers"><img src="https://img.shields.io/github/stars/e-m-b-a/emba?label=Stars"></a>
   <a href="https://github.com/e-m-b-a/emba/network/members"><img src="https://img.shields.io/github/forks/e-m-b-a/emba?label=Forks"></a>
   <a href="https://hub.docker.com/r/embeddedanalyzer/emba"><img src="https://img.shields.io/docker/pulls/embeddedanalyzer/emba"></a>
