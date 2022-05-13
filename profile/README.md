@@ -14,6 +14,7 @@ Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA - v1.0.0 - Singapore Edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.0-Singapore-Edt)
 * [*Don't miss the virtual Black Hat Asia - Arsenal demonstration of EMBA*](https://www.blackhat.com/asia-22/arsenal/schedule/index.html#emba-open-source-firmware-security-testing-26210)
 * [*First public release of EMBA - v0.9 - Munich Edt. available*](https://github.com/e-m-b-a/emba/releases/tag/0.9.0-MunichEdt)
 * [*Blog post on the qnap extractor module*](https://www.securefirmware.de/posts/qnap_decryptor/)
