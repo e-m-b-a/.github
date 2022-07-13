@@ -20,4 +20,3 @@ Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * [*EMBA at TROOPERS22*](https://troopers.de/troopers22/agenda/tr22-1042-emba-open-source-firmware-security-testing/)
 * [*EMBA - v1.0.1 - Bug fixing release available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.1)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
-* [*EMBA - v1.0.0 - Singapore Edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.0-Singapore-Edt)
