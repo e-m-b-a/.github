@@ -14,9 +14,10 @@ Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA - v1.0.3 - **New OS** release available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.3)
 * [*EMBA at DEF CON 30*](https://forum.defcon.org/node/242109)
 * [*EMBA at Black Hat USA 2022*](https://www.blackhat.com/us-22/arsenal/schedule/index.html#emba--open-source-firmware-security-testing-26596)
-* [*EMBA - v1.0.2 - New extractor release available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.2)
+* [*EMBA - v1.0.2 - **New extractor** release available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.2)
 * [*EMBA at TROOPERS22*](https://troopers.de/troopers22/agenda/tr22-1042-emba-open-source-firmware-security-testing/)
-* [*EMBA - v1.0.1 - Bug fixing release available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.1)
+* [*EMBA - v1.0.1 - **Bug fixing** release available*](https://github.com/e-m-b-a/emba/releases/tag/1.0.1)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
