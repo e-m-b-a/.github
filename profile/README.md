@@ -14,6 +14,7 @@ Check out the greatest Firmware Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA - v1.1.2 available*](https://github.com/e-m-b-a/emba/releases/tag/1.1.2-Knight-Rider-Edt)
 * [*EMBA - v1.1.1 available*](https://github.com/e-m-b-a/emba/releases/tag/1.1.1)
 * [*Recording of Black Hat Asia Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA - v1.1.0 - Las Vegas Edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.1.0-Las-Vegas-Edt)
