@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*Recording of Black Hat USA Arsenal and DC30 session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA - v1.1.3 - Metasploit edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.1.3-Metasploit-Edt)
 * [*EMBA is going to Black Hat EU 2022*](https://www.blackhat.com/eu-22/arsenal/schedule/index.html#emba--from-firmware-to-exploit-29185)
 * [*EMBA - v1.1.2 available*](https://github.com/e-m-b-a/emba/releases/tag/1.1.2-Knight-Rider-Edt)
