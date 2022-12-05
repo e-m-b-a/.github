@@ -10,7 +10,7 @@
 
 ## Welcome to the Firmware Security testing area
 
-Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emba) and the enterprise Firmware scanning environment [*EMBArk*](https://github.com/e-m-b-a/embark) (early alpha state).
+Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emba) and the enterprise Firmware scanning environment [*EMBArk*](https://github.com/e-m-b-a/embark).
 
 ## Latest news
 
