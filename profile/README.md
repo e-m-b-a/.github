@@ -19,7 +19,5 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * [*Recording of Black Hat EU 2022 Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA - v1.2.2 - BlueHat edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.2-bluehat)
 * [*Recording of TROOPERS talk available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
-* [*EMBA - v1.2.1 available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.1)
 * [*EMBA at DEF CON 30*](https://forum.defcon.org/node/242109)
-* [*EMBA at Black Hat USA 2022*](https://www.blackhat.com/us-22/arsenal/schedule/index.html#emba--open-source-firmware-security-testing-26596)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
