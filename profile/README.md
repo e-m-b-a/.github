@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA - v1.3.0 AI edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.3.0-AI-for-EMBA)
 * [*BsidesLV Talk announced*](https://bsideslv.org/talks#DWYRJ3)
 * [*BlackHat US23 Arsenal session announced*](https://www.blackhat.com/us-23/arsenal/schedule/#emba--from-firmware-to-exploit-31537)
 * [*EMBA - v1.2.3 - R.I.P. Binwalk edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.3-RIP-binwalk)
