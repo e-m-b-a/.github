@@ -14,10 +14,10 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
 * [*EMBA - v1.3.0 AI edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.3.0-AI-for-EMBA)
 * [*BsidesLV Talk announced*](https://bsideslv.org/talks#DWYRJ3)
-* [*BlackHat US23 Arsenal session announced*](https://www.blackhat.com/us-23/arsenal/schedule/#emba--from-firmware-to-exploit-31537)
 * [*EMBA - v1.2.3 - R.I.P. Binwalk edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.3-RIP-binwalk)
 * [*Recording of Black Hat EU 2022 Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA - v1.2.2 - BlueHat edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.2-bluehat)
