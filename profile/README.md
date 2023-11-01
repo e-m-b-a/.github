@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA version 1.3.1 available*](https://github.com/e-m-b-a/emba/releases/tag/1.3.1-diff-all-the-firmwares)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
 * [*EMBA - v1.3.0 AI edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.3.0-AI-for-EMBA)
@@ -22,5 +23,4 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * [*Recording of Black Hat EU 2022 Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA - v1.2.2 - BlueHat edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.2-bluehat)
 * [*Recording of TROOPERS talk available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
-* [*EMBA at DEF CON 30*](https://forum.defcon.org/node/242109)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
