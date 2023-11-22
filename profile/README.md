@@ -24,3 +24,28 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * [*EMBA - v1.2.2 - BlueHat edt. available*](https://github.com/e-m-b-a/emba/releases/tag/1.2.2-bluehat)
 * [*Recording of TROOPERS talk available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
+
+
+
+
+***
+<p align="center"><b>EMBA - firmware security scanning at its best</b></p>
+
+***
+
+**Sponsor EMBA and EMBArk:**
+
+The _EMBA_ environment is free and open source!
+
+We put a lot of time and energy into these tools and related research to make this happen. It's now possible for you to contribute as a sponsor!
+
+If you like _EMBA_ you have the chance to support future development by becoming a [Sponsor](https://github.com/sponsors/e-m-b-a)
+
+Thank You [:heart: Get a Sponsor](https://github.com/sponsors/e-m-b-a)  
+Or you can buy us some beer here [:heart: Buy me a coffee](https://www.buymeacoffee.com/securefirmware)
+
+
+***
+<p align="center"><b>EMBA - firmware security scanning at its best</b></p>
+
+***
