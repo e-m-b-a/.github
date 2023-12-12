@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*First EMBArk version is out now*](https://github.com/e-m-b-a/embark/releases/tag/v0.1)
 * [*EMBA version 1.3.1 available*](https://github.com/e-m-b-a/emba/releases/tag/1.3.1-diff-all-the-firmwares)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
