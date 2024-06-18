@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA version 1.4.1 available*](https://github.com/e-m-b-a/emba/releases/tag/1.4.1-white-rabbit)
 * To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
 * [*EMBA version 1.4.0 available*](https://github.com/e-m-b-a/emba/releases/tag/1.4.0-ICS-testing-edt)
 * [*First EMBArk version is out now*](https://github.com/e-m-b-a/embark/releases/tag/v0.1)
