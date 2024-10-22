@@ -14,8 +14,8 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA version 1.5.0 available*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.0-SBOMdorado)
 * [**FLOSS Weekly** Episode 802: EMBA – Layers Upon Layers Of Bash](https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/)
-* [*EMBA version 1.4.2 available*](https://github.com/e-m-b-a/emba/releases/tag/1.4.2-Summertime)
 * [*2000 followers unlocked*](https://x.com/securefirmware)
 * [*EMBA article on Medium available*](https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87)
 * To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
