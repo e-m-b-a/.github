@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBArk v0.2 - SBOM is a team sport*](https://github.com/e-m-b-a/embark/releases/tag/v0.2)
 * [*EMBA v1.5.1 - Rise from the dead or Binwalk is back in town*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.1-rise-from-the-dead)
 * [**FLOSS Weekly** Episode 802: EMBA – Layers Upon Layers Of Bash](https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/)
 * [*2000 followers unlocked*](https://x.com/securefirmware)
