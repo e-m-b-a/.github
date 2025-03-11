@@ -14,13 +14,11 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA v1.5.2 - SBOM - The next generation*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.2-SBOM-next-generation-EMBA)
 * [*EMBArk v0.2 - SBOM is a team sport*](https://github.com/e-m-b-a/embark/releases/tag/v0.2)
-* [*EMBA v1.5.1 - Rise from the dead or Binwalk is back in town*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.1-rise-from-the-dead)
 * [**FLOSS Weekly** Episode 802: EMBA – Layers Upon Layers Of Bash](https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/)
-* [*2000 followers unlocked*](https://x.com/securefirmware)
 * [*EMBA article on Medium available*](https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87)
 * To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
-* [*First EMBArk version is out now*](https://github.com/e-m-b-a/embark/releases/tag/v0.1)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
 * [*BsidesLV Talk announced*](https://bsideslv.org/talks#DWYRJ3)
