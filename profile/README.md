@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*EMBA reached the next milestone. 3000 GitHub stars accomplished.*](https://github.com/e-m-b-a/emba/)
 * [*TROOPERS 25 Talk announced*](https://troopers.de/troopers25/talks/cblhdx/)
 * [*EMBA v1.5.2 - SBOM - The next generation*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.2-SBOM-next-generation-EMBA)
 * [*EMBArk v0.2 - SBOM is a team sport*](https://github.com/e-m-b-a/embark/releases/tag/v0.2)
