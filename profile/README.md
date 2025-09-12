@@ -14,6 +14,7 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*The EMBA book is available*](https://github.com/e-m-b-a/emba/wiki/The-EMBA-book-%E2%80%90-Overview)
 * [*The new EMBA merch store is online - check your merch now*](https://emba-firmware-analyzer.myspreadshop.de/)
 * [*EMBArk v0.3 - We are TROOPERS*](https://github.com/e-m-b-a/embark/releases/tag/v0.3)
 * [*EMBA reached the next milestone. 3000 GitHub stars accomplished.*](https://github.com/e-m-b-a/emba/)
@@ -24,7 +25,6 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
-* [*BsidesLV Talk announced*](https://bsideslv.org/talks#DWYRJ3)
 * [*Recording of Black Hat EU 2022 Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*Recording of TROOPERS talk available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
