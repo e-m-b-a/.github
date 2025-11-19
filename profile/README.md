@@ -22,7 +22,6 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 * [*EMBA v1.5.2 - SBOM - The next generation*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.2-SBOM-next-generation-EMBA)
 * [**FLOSS Weekly** Episode 802: EMBA – Layers Upon Layers Of Bash](https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/)
 * [*EMBA article on Medium available*](https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87)
-* To show your love for EMBA with nice shirts or other merch you can check our [Spreadshop](https://www.spreadshirt.de/shop/user/emba+firmware+analyzer/maenner/bekleidung/pullover-hoodies/hoodies/#?affiliateId=1257693)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
 * [*Recording of Black Hat EU 2022 Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
