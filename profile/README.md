@@ -14,18 +14,17 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
+* [*Recording of TROOPERS25 talk "SBOMs the right way" available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*The EMBA book is available*](https://github.com/e-m-b-a/emba/wiki/The-EMBA-book-%E2%80%90-Overview)
 * [*The new EMBA merch store is online - check your merch now*](https://emba-firmware-analyzer.myspreadshop.de/)
 * [*EMBArk v0.3 - We are TROOPERS*](https://github.com/e-m-b-a/embark/releases/tag/v0.3)
 * [*EMBA reached the next milestone. 3000 GitHub stars accomplished.*](https://github.com/e-m-b-a/emba/)
-* [*TROOPERS 25 Talk announced*](https://troopers.de/troopers25/talks/cblhdx/)
 * [*EMBA v1.5.2 - SBOM - The next generation*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.2-SBOM-next-generation-EMBA)
 * [**FLOSS Weekly** Episode 802: EMBA – Layers Upon Layers Of Bash](https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/)
 * [*EMBA article on Medium available*](https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
 * [*DEF CON 31 - ICS Village Talk announced*](https://www.icsvillage.com/defconevents/def-con-31)
 * [*Recording of Black Hat EU 2022 Arsenal session available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
-* [*Recording of TROOPERS talk available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*EMBA is now part of the OWASP Firmware Security Testing Methodology*](https://github.com/scriptingxss/owasp-fstm#emba---embedded-analyzer)
 
 ***
