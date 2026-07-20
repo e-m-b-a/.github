@@ -15,7 +15,8 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 ## Latest news
 
 * [*Black Hat Arsenal - EMBArk demo - USA 2026*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
-* [*Black Hat Arsenal - EMBA lab - USA 2026*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)* [*EMBA v2.0.2 - Party the big 2k*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.2-big-2k)
+* [*Black Hat Arsenal - EMBA lab - USA 2026*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
+* [*EMBA v2.0.2 - Party the big 2k*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.2-big-2k)
 * [*EMBA v2.0.1 - The interactor*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.1-interactor)
 * [*Recording of TROOPERS25 talk "SBOMs the right way" available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*The EMBA book is available*](https://github.com/e-m-b-a/emba/wiki/The-EMBA-book-%E2%80%90-Overview)
