@@ -14,15 +14,14 @@ Check out the Firmware Security Analyzer [*EMBA*](https://github.com/e-m-b-a/emb
 
 ## Latest news
 
-* [*EMBA v2.0.2 - Party the big 2k*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.2-big-2k)
+* [*Black Hat Arsenal - EMBArk demo - USA 2026*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
+* [*Black Hat Arsenal - EMBA lab - USA 2026*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)* [*EMBA v2.0.2 - Party the big 2k*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.2-big-2k)
 * [*EMBA v2.0.1 - The interactor*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.1-interactor)
-* [*EMBA v2.0.0 - A brave new world of firmware analysis*](https://github.com/e-m-b-a/emba/releases/tag/v2.0.0-A-brave-new-world)
 * [*Recording of TROOPERS25 talk "SBOMs the right way" available*](https://github.com/e-m-b-a/emba/wiki#publications-talks-and-live-demos)
 * [*The EMBA book is available*](https://github.com/e-m-b-a/emba/wiki/The-EMBA-book-%E2%80%90-Overview)
 * [*The new EMBA merch store is online - check your merch now*](https://emba-firmware-analyzer.myspreadshop.de/)
 * [*EMBArk v0.3 - We are TROOPERS*](https://github.com/e-m-b-a/embark/releases/tag/v0.3)
 * [*EMBA reached the next milestone. 3000 GitHub stars accomplished.*](https://github.com/e-m-b-a/emba/)
-* [*EMBA v1.5.2 - SBOM - The next generation*](https://github.com/e-m-b-a/emba/releases/tag/v1.5.2-SBOM-next-generation-EMBA)
 * [**FLOSS Weekly** Episode 802: EMBA – Layers Upon Layers Of Bash](https://hackaday.com/2024/09/25/floss-weekly-episode-802-emba-layers-upon-layers-of-bash/)
 * [*EMBA article on Medium available*](https://medium.com/@iugkhgf/leveraging-automated-firmware-analysis-with-the-open-source-firmware-analyzer-emba-46d30d587a87)
 * [*BsidesLV recording available*](https://youtu.be/8sXyRv21jPY?si=J9H3HK_5KX75Fk4C)
